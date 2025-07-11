@@ -48,6 +48,20 @@ JavaScript (Vanilla)
  <img width="451" height="791" alt="image" src="https://github.com/user-attachments/assets/200efa66-5612-4d65-a144-7fdaf5deaa4f" />
  <img width="449" height="798" alt="image" src="https://github.com/user-attachments/assets/0e4a3827-8337-44f8-8d45-c280efe3627e" />
 
+ 🔍 **Reflection**
+✅ **Challenges Faced**:
+**Responsiveness & Mobile Layouts**:
+Adapting the UI for various screen sizes using CSS media queries and Flexbox/Grid required careful layout planning and debugging to ensure a consistent experience across devices.
+
+**Filter & Search Logic Integration**:
+Ensuring that filters, search, and sorting logic worked seamlessly together without overwriting each other’s results required thoughtful state management in plain JavaScript.
+
+**DOM Manipulation Without Frameworks**:
+Building interactivity like form population, editing, and pagination without libraries like React or Vue posed a challenge but deepened my understanding of vanilla JS.
+
+**Freemarker Simulation Without Backend**:
+Since the project didn’t involve a running backend, I had to simulate Freemarker template behavior with static data injection and folder structuring for review purposes.
+
 
 
 
