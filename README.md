@@ -44,6 +44,12 @@ JavaScript (Vanilla)
  <img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/31fa3173-7bdb-4a91-828e-2ad2d887d8a6" />
  <img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/a7c714b1-4699-4dbf-a5d7-16bde93f593e" />
  <img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/a51afc48-fb21-4c9e-998c-47b4ce3f5bb9" />
+ <img width="446" height="796" alt="image" src="https://github.com/user-attachments/assets/c3e707bf-9f67-475b-b50a-c2796d3086db" />
+ <img width="451" height="791" alt="image" src="https://github.com/user-attachments/assets/200efa66-5612-4d65-a144-7fdaf5deaa4f" />
+ <img width="449" height="798" alt="image" src="https://github.com/user-attachments/assets/0e4a3827-8337-44f8-8d45-c280efe3627e" />
+
+
+
 
 
 
