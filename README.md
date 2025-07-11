@@ -16,27 +16,7 @@ A responsive and interactive **Employee Directory** built using **HTML**, **CSS*
 
 ---
 
-## 📁 Project Structure
 
-employee-directory/
-│
-├── src/main/resources/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── style1.css            # Main CSS styles
-│   │   ├── js/
-│   │   │   ├── data.js               # Mock employee data
-│   │   │   └── app1.js               # JavaScript logic (rendering, CRUD, filter, etc.)
-│   │   └── html/
-│   │       └── index.html           # Main HTML UI entry
-│   └── templates/
-│       └── index.ftlh               # (Optional) Freemarker template
-│
-├── README.md                        # Project documentation
-
-
-
----
 
 ## 📦 Installation & Usage
 
